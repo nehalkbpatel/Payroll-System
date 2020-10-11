@@ -1,0 +1,9 @@
+C:\Users\Nehal\Source\Repos\Payroll-System\Employee.Payslip.Helper\bin\Debug\netcoreapp3.1\Employee.Payslip.Helper.deps.json
+C:\Users\Nehal\Source\Repos\Payroll-System\Employee.Payslip.Helper\bin\Debug\netcoreapp3.1\Employee.Payslip.Helper.dll
+C:\Users\Nehal\Source\Repos\Payroll-System\Employee.Payslip.Helper\bin\Debug\netcoreapp3.1\Employee.Payslip.Helper.pdb
+C:\Users\Nehal\Source\Repos\Payroll-System\Employee.Payslip.Helper\obj\Debug\netcoreapp3.1\Employee.Payslip.Helper.csprojAssemblyReference.cache
+C:\Users\Nehal\Source\Repos\Payroll-System\Employee.Payslip.Helper\obj\Debug\netcoreapp3.1\Employee.Payslip.Helper.AssemblyInfoInputs.cache
+C:\Users\Nehal\Source\Repos\Payroll-System\Employee.Payslip.Helper\obj\Debug\netcoreapp3.1\Employee.Payslip.Helper.AssemblyInfo.cs
+C:\Users\Nehal\Source\Repos\Payroll-System\Employee.Payslip.Helper\obj\Debug\netcoreapp3.1\Employee.Payslip.Helper.csproj.CoreCompileInputs.cache
+C:\Users\Nehal\Source\Repos\Payroll-System\Employee.Payslip.Helper\obj\Debug\netcoreapp3.1\Employee.Payslip.Helper.dll
+C:\Users\Nehal\Source\Repos\Payroll-System\Employee.Payslip.Helper\obj\Debug\netcoreapp3.1\Employee.Payslip.Helper.pdb

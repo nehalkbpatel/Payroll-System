@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LGPJq/MJ5lQ4VuGuqy1BrL69M0H1JxP5MUXVdFtkdAFjKGAvrDefIoygf+9k7ES+aXqHOE0/4V12e0XWWLhx4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nehal\\Source\\Repos\\Payroll-System\\Employee.Payslip.Helper\\Employee.Payslip.Helper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nehal\\.nuget\\packages\\csvhelper\\15.0.6\\csvhelper.15.0.6.nupkg.sha512",
+    "C:\\Users\\Nehal\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

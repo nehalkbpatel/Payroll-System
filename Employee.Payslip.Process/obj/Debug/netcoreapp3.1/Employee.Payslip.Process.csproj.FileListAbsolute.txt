@@ -1,0 +1,12 @@
+C:\Users\Nehal\Source\Repos\Payroll-System\Employee.Payslip.Process\bin\Debug\netcoreapp3.1\Employee.Payslip.Process.deps.json
+C:\Users\Nehal\Source\Repos\Payroll-System\Employee.Payslip.Process\bin\Debug\netcoreapp3.1\Employee.Payslip.Process.dll
+C:\Users\Nehal\Source\Repos\Payroll-System\Employee.Payslip.Process\bin\Debug\netcoreapp3.1\Employee.Payslip.Process.pdb
+C:\Users\Nehal\Source\Repos\Payroll-System\Employee.Payslip.Process\bin\Debug\netcoreapp3.1\Employee.Payslip.Models.dll
+C:\Users\Nehal\Source\Repos\Payroll-System\Employee.Payslip.Process\bin\Debug\netcoreapp3.1\Employee.Payslip.Models.pdb
+C:\Users\Nehal\Source\Repos\Payroll-System\Employee.Payslip.Process\obj\Debug\netcoreapp3.1\Employee.Payslip.Process.csprojAssemblyReference.cache
+C:\Users\Nehal\Source\Repos\Payroll-System\Employee.Payslip.Process\obj\Debug\netcoreapp3.1\Employee.Payslip.Process.AssemblyInfoInputs.cache
+C:\Users\Nehal\Source\Repos\Payroll-System\Employee.Payslip.Process\obj\Debug\netcoreapp3.1\Employee.Payslip.Process.AssemblyInfo.cs
+C:\Users\Nehal\Source\Repos\Payroll-System\Employee.Payslip.Process\obj\Debug\netcoreapp3.1\Employee.Payslip.Process.csproj.CoreCompileInputs.cache
+C:\Users\Nehal\Source\Repos\Payroll-System\Employee.Payslip.Process\obj\Debug\netcoreapp3.1\Employee.Payslip.Process.csproj.CopyComplete
+C:\Users\Nehal\Source\Repos\Payroll-System\Employee.Payslip.Process\obj\Debug\netcoreapp3.1\Employee.Payslip.Process.dll
+C:\Users\Nehal\Source\Repos\Payroll-System\Employee.Payslip.Process\obj\Debug\netcoreapp3.1\Employee.Payslip.Process.pdb

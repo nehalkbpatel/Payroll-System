@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Employee.Payslip.Process/1.0.0": {
+        "dependencies": {
+          "Employee.Payslip.Models": "1.0.0"
+        },
+        "runtime": {
+          "Employee.Payslip.Process.dll": {}
+        }
+      },
+      "Employee.Payslip.Models/1.0.0": {
+        "runtime": {
+          "Employee.Payslip.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Employee.Payslip.Process/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Employee.Payslip.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
